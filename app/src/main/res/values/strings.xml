@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anonymous Feedback</string>
+    <string name="client_email">Email:example@gmail.com</string>
+    <string name="employee_email">Email:example@gmail.com</string>
+    <string name="comment_client">write something for client</string>
+    <string name="comment_employee">write something for employee</string>
+    <string name="client">Client</string>
+    <string name="employee">Employee</string>
+    <string name="title">We Make it Happen.</string>
+</resources>
